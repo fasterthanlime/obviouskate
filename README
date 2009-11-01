@@ -4,4 +4,4 @@ It takes a file path as input, reads it, and outputs
 an array literal of UInt32, in hexadecimal.
 
 It's used in rock to maintain the ooc folklore.
-Your job to find it. Good luke, Luck! Huh. Good luck, Luke!
+Your job is to find it. Good luke, Luck! Huh. Good luck, Luke!
